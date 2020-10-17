@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Components.Authorization;
 
 namespace DNP_Assignment_1
 {
+    /*Test*/
     public class Startup
     {
         public Startup(IConfiguration configuration)
